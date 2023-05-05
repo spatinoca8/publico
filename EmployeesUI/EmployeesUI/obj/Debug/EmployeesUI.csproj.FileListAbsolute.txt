@@ -1,0 +1,23 @@
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\bin\Debug\EmployeesUI.exe.config
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\bin\Debug\EmployeesUI.exe
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\bin\Debug\EmployeesUI.pdb
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\bin\Debug\BusinessObject.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\bin\Debug\BusinessObject.pdb
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI.csprojResolveAssemblyReference.cache
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\MainWindow.g.cs
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\Page1.g.cs
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\Page2.g.cs
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\App.g.cs
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI_MarkupCompile.cache
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI_MarkupCompile.lref
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\MainWindow.baml
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\Page1.baml
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\Page2.baml
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI.g.resources
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI.Properties.Resources.resources
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI.csproj.GenerateResource.Cache
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI.exe
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI.pdb
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\EmployeesUI\bin\Debug\EmployeesUI.exe.config
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI.exe
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\EmployeesUI\obj\Debug\EmployeesUI.pdb

@@ -1,0 +1,52 @@
+﻿<Page x:Class="EmployeesUI.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EmployeesUI"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Page1">
+
+    <Grid Background="white">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+           
+        </Grid.ColumnDefinitions>
+       
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Column="0" Grid.Row="0" >Tipo Identificacion</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="0"  Name="txtTipIdentificacion"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="1">Numero Identificacion</TextBlock>
+        <TextBox  Grid.Column="1" Grid.Row="1" Name="txtNumIdentificacion"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="2">Nombre</TextBlock>
+        <TextBox  Grid.Column="1" Grid.Row="2" Name="txtNombre"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="3">SegundoNombre</TextBlock>
+        <TextBox  Grid.Column="1" Grid.Row="3" Name="txtSegundoNombre"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="4" >PrimerApellido</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="4" Name="txtPrimerApellido"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="5" >SegundoApellido</TextBlock>
+        <TextBox  Grid.Column="1" Grid.Row="5" Name="txtSegundoApellido"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="6">Direccion</TextBlock>
+        <TextBox  Grid.Column="1" Grid.Row="6" Name="txtDireccion"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="7">Celular</TextBlock>
+        <TextBox  Grid.Column="1" Grid.Row="7" Name="txtCelular"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="8" >Email</TextBlock>
+        <TextBox  Grid.Column="1" Grid.Row="8" Name="txtEmail"></TextBox>
+        <Button Grid.Column="1" Grid.Row="9" Click="Button_Click">Guardar</Button>  
+        
+    </Grid>
+</Page>

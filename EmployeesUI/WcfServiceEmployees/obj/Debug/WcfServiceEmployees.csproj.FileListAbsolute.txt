@@ -1,0 +1,46 @@
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\ApplicationInsights.config
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\WcfServiceEmployees.dll.config
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\WcfServiceEmployees.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\WcfServiceEmployees.pdb
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\BusinessObject.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.Web.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.WindowsServer.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.ApplicationInsights.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Repository.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\BusinessObject.pdb
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Repository.pdb
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.Web.xml
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.WindowsServer.xml
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\bin\Microsoft.ApplicationInsights.xml
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\obj\Debug\WcfServiceEmployees.csprojResolveAssemblyReference.cache
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\obj\Debug\WcfServiceEmployees.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\WcfServiceEmployees\obj\Debug\WcfServiceEmployees.pdb
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\ApplicationInsights.config
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\WcfServiceEmployees.dll.config
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\WcfServiceEmployees.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\WcfServiceEmployees.pdb
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\BusinessObject.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.Web.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.ApplicationInsights.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Repository.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\BusinessObject.pdb
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Repository.pdb
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.Web.xml
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\bin\Microsoft.ApplicationInsights.xml
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\obj\Debug\WcfServiceEmployees.csprojResolveAssemblyReference.cache
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\obj\Debug\WcfServiceEmployees.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\WcfServiceEmployees\obj\Debug\WcfServiceEmployees.pdb

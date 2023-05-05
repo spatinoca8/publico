@@ -1,0 +1,4 @@
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\BusinessObject\bin\Debug\BusinessObject.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\BusinessObject\bin\Debug\BusinessObject.pdb
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\BusinessObject\obj\Debug\BusinessObject.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\BusinessObject\obj\Debug\BusinessObject.pdb

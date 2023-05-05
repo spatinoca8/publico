@@ -1,0 +1,14 @@
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\Repository\bin\Debug\Repository.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\Repository\bin\Debug\Repository.pdb
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\Repository\bin\Debug\BusinessObject.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\Repository\bin\Debug\BusinessObject.pdb
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\Repository\obj\Debug\Repository.dll
+c:\users\spati\documents\visual studio 2015\Projects\EmployeesUI\Repository\obj\Debug\Repository.pdb
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\Repository\bin\Debug\Repository.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\Repository\bin\Debug\Repository.pdb
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\Repository\bin\Debug\BusinessObject.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\Repository\bin\Debug\BusinessObject.pdb
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\Repository\obj\Debug\Repository.dll
+C:\Users\spati\Desktop\PruebaTecnica\EmployeesUI\Repository\obj\Debug\Repository.pdb
